@@ -25,3 +25,23 @@ a.link-footer {
     height: auto;
     width: 100%;
 }
+
+.deps-footer {
+    font-size: 35px;
+}
+
+.footer-contact {
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-contact img{
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+}
+
+footer {
+    padding-bottom: 30px;
+}
