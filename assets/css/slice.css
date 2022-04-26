@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+}
+
+.item img {
+    width: 33%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.contact-inner-ico {
+    z-index: 1;
+}
+
+.contact-inner-ico a img {
+    height: 100px !important;
+}
